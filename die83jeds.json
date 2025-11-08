@@ -1,5 +1,5 @@
 {
   "Version": "0.1",
   "Description": "приложение с реестром, диспетчером процессов, проводником и проверкой ЦП",
-  "language": "python"
+  "Language": "python"
 }
